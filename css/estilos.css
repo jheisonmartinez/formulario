@@ -1,0 +1,16 @@
+.encabezado{
+    border-color: black ;
+    border-width: 1px;
+    text-align: center;
+}
+img{
+    width: 60px;
+    height: 60px;
+   
+}
+/* Estilo para los botones de radio */
+input[type="radio"] {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px; /* Espacio entre los botones de radio */
+}
